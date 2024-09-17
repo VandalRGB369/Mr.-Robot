@@ -5,7 +5,7 @@ global.ytname = "@fenix_programmer"
 global.socialm = "GitHub: BotDevilLozan"
 global.location = "srilanka, colombo, whaththla"
 global.botname = 'Godfather'
-global.ownernumber = '94773010580'
+global.ownernumber = '19593001212'
 global.ownername = 'Fenix id'
 global.websitex = "https://youtube.com/@fenix_programmer?si=wiTuE9uPy9rCRciq"
 global.wagc = "https://whatsapp.com/channel/0029VaV2xYy72WTw8ERfJE2w"
@@ -16,7 +16,7 @@ global.packname = "Itz"
 global.author = "Godfather"
 global.creator = "94773010580@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["94773010580"]
+global.premium = ["19593001212"]
 global.hituet = 0
 global.typemenu = 'v12'
 global.typereply = 'v4' 
