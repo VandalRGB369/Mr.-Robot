@@ -24,7 +24,7 @@ global.autoblocknumber = '92'
 global.antiforeignnumber = '91'
 global.welcome = false 
 global.anticall = true
-global.autoswview = true 
+global.autoswview = false 
 global.groupevent = false 
 global.mess = {
 	limit: 'Your limit is up!',
