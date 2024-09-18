@@ -1,22 +1,22 @@
 
 const fs = require('fs')
 const chalk = require('chalk')
-global.ytname = "@fenix_programmer"
-global.socialm = "GitHub: BotDevilLozan"
-global.location = "srilanka, colombo, whaththla"
-global.botname = 'Godfather'
-global.ownernumber = '19593001212'
-global.ownername = 'Fenix id'
+global.ytname = "AZRAEL"
+global.socialm = "AZRAEL"
+global.location = "HELL"
+global.botname = 'AZRAELbot'
+global.ownernumber = '15189415189'
+global.ownername = 'AZRAEL'
 global.websitex = "https://youtube.com/@fenix_programmer?si=wiTuE9uPy9rCRciq"
 global.wagc = "https://whatsapp.com/channel/0029VaV2xYy72WTw8ERfJE2w"
 global.themeemoji = '🪀'
-global.wm = "Godfather By Fenix Id."
+global.wm = "AZRAELbot By AZRAEL Id."
 global.botscript = 'https://github.com/Fenixid-server/Mr.-Robot' 
-global.packname = "Itz"
-global.author = "Godfather"
+global.packname = "AZRAEL"
+global.author = "AZRAEL"
 global.creator = "94773010580@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["19593001212"]
+global.premium = ["15189415189"]
 global.hituet = 0
 global.typemenu = 'v12'
 global.typereply = 'v4' 
